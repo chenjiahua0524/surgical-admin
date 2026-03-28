@@ -12,7 +12,20 @@
       "usedAt": null,
       "deviceId": null,
       "revoked": false
+    },
+    {
+      "key": "SURG-PPJG-LYRR-BRAE-GGNK",
+      "edition": "pro",
+      "duration": "lifetime",
+      "createdAt": 1774674779995,
+      "expiresAt": 0,
+      "user": "我的第一个客户",
+      "note": null,
+      "used": false,
+      "usedAt": null,
+      "deviceId": null,
+      "revoked": false
     }
   ],
-  "lastUpdated": "2026-03-28T00:00:00.000Z"
+  "lastUpdated": "2026-03-28T05:12:59.995Z"
 }
