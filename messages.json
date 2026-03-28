@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "id": "welcome-001",
+      "type": "announcement",
+      "title": "欢迎使用 Surgical",
+      "content": "感谢您选择 Surgical 工业级智能体提示词系统！如有任何问题，请联系我们的支持团队。",
+      "actionUrl": null,
+      "actionText": null,
+      "createdAt": 1711612800000,
+      "expiresAt": null,
+      "targetEditions": ["free", "pro", "team", "enterprise"],
+      "priority": "normal",
+      "dismissed": false
+    }
+  ],
+  "lastUpdated": "2026-03-28T00:00:00.000Z"
+}

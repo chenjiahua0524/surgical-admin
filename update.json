@@ -1,0 +1,9 @@
+{
+  "version": "2.5.0",
+  "releaseDate": "2026-03-28",
+  "releaseNotes": "v2.5.0 更新内容：\n\n🚀 新功能\n- 历史记录与收藏分离存储\n- 跨标签页数据同步\n- 应用内更新检测\n- 授权激活系统\n\n🔧 优化\n- 修复取消生成无效问题\n- 增强主题切换支持\n- 改进存储配额管理\n\n🐛 修复\n- 解决数据迁移兼容性问题",
+  "downloadUrl": "https://github.com/your-username/surgical/releases/latest",
+  "mandatory": false,
+  "fileSize": 8500000,
+  "sha256": ""
+}

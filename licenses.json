@@ -1,0 +1,18 @@
+{
+  "licenses": [
+    {
+      "key": "SURG-PTST-LICE-TEST-KEYZ",
+      "edition": "pro",
+      "duration": "lifetime",
+      "createdAt": 1711612800000,
+      "expiresAt": 0,
+      "user": "测试账号",
+      "note": "内置测试激活码",
+      "used": false,
+      "usedAt": null,
+      "deviceId": null,
+      "revoked": false
+    }
+  ],
+  "lastUpdated": "2026-03-28T00:00:00.000Z"
+}
