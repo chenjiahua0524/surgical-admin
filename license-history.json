@@ -228,7 +228,23 @@
       "purchasePlatform": null,
       "note": null,
       "metadata": null
+    },
+    {
+      "id": "history_1774915007927_ax4fi2",
+      "licenseKey": "SURG-R4QF-3KBG-2JMD-53KO",
+      "action": "generated",
+      "actor": "admin_console",
+      "summary": "管理员控制台生成邀请码",
+      "createdAt": 1774915007927,
+      "deviceId": null,
+      "user": null,
+      "purchasePlatform": "咸鱼",
+      "note": null,
+      "metadata": {
+        "edition": "trial",
+        "duration": "trial30"
+      }
     }
   ],
-  "lastUpdated": "2026-03-30T23:52:42.307Z"
+  "lastUpdated": "2026-03-30T23:56:47.929Z"
 }
