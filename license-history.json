@@ -276,7 +276,20 @@
         "edition": "trial",
         "duration": "trial30"
       }
+    },
+    {
+      "id": "history_1774915044921_7sg89s",
+      "licenseKey": "SURG-RKAF-37HS-VJD6-T4ZH",
+      "action": "revoked",
+      "actor": "admin_console",
+      "summary": "管理员手动禁用邀请码",
+      "createdAt": 1774915044921,
+      "deviceId": null,
+      "user": null,
+      "purchasePlatform": "咸鱼",
+      "note": null,
+      "metadata": null
     }
   ],
-  "lastUpdated": "2026-03-30T23:57:19.136Z"
+  "lastUpdated": "2026-03-30T23:57:24.922Z"
 }
