@@ -1,0 +1,20 @@
+{
+  "policyVersion": "2026-03-30-access-v2",
+  "inviteRequired": true,
+  "allowLocalValidationFallback": false,
+  "allowOfflineGrace": false,
+  "blockOnPolicyFetchFailure": true,
+  "whitelistDeviceIds": [],
+  "whitelistLicenseKeys": [],
+  "supportUrl": "https://surgical.app/support",
+  "blockMessageTitle": "请输入邀请码继续使用",
+  "blockMessage": "当前版本已启用启动前访问校验。完成邀请码验证前，核心工作区不会开放。",
+  "editionVersionRequirements": {
+    "trial": {
+      "minClientVersion": null,
+      "maxClientVersion": null,
+      "deprecatedAfterVersion": null,
+      "deprecationMessage": "体验版已停止支持，请升级至正式版"
+    }
+  }
+}
