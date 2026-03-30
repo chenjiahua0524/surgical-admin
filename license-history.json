@@ -289,7 +289,20 @@
       "purchasePlatform": "咸鱼",
       "note": null,
       "metadata": null
+    },
+    {
+      "id": "history_1774915053818_ifi9ct",
+      "licenseKey": "SURG-R4QF-3KBG-2JMD-53KO",
+      "action": "revoked",
+      "actor": "admin_console",
+      "summary": "管理员手动禁用邀请码",
+      "createdAt": 1774915053818,
+      "deviceId": null,
+      "user": null,
+      "purchasePlatform": "咸鱼",
+      "note": null,
+      "metadata": null
     }
   ],
-  "lastUpdated": "2026-03-30T23:57:24.922Z"
+  "lastUpdated": "2026-03-30T23:57:33.818Z"
 }
