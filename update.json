@@ -1,9 +1,10 @@
 {
-  "version": "2.5.0",
+  "version": "2.5.1",
   "releaseDate": "2026-03-28",
-  "releaseNotes": "v2.5.0 更新内容：\n\n🚀 新功能\n- 历史记录与收藏分离存储\n- 跨标签页数据同步\n- 应用内更新检测\n- 授权激活系统\n\n🔧 优化\n- 修复取消生成无效问题\n- 增强主题切换支持\n- 改进存储配额管理\n\n🐛 修复\n- 解决数据迁移兼容性问题",
-  "downloadUrl": "https://github.com/your-username/surgical/releases/latest",
+  "releaseNotes": "v2.5.1 更新内容：\n\n🎨 品牌升级\n- 重做 Surgical 品牌 Logo\n- 更新应用内品牌标识与 favicon\n- 修复 Windows 安装包与快捷方式图标刷新问题\n\n🔧 优化\n- 统一桌面封装图标资源生成链路\n- 强化 Windows 构建缓存清理后的出包一致性",
+  "downloadUrl": "https://surgical.app/download",
   "mandatory": false,
+  "minSupportedVersion": "2.5.1",
   "fileSize": 8500000,
   "sha256": ""
 }
