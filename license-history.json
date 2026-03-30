@@ -189,7 +189,46 @@
         "edition": "trial",
         "duration": "trial30"
       }
+    },
+    {
+      "id": "history_1774914760293_uypli1",
+      "licenseKey": "SURG-RY7T-368W-UCRW-DQ2Y",
+      "action": "revoked",
+      "actor": "admin_console",
+      "summary": "管理员手动禁用邀请码",
+      "createdAt": 1774914760292,
+      "deviceId": null,
+      "user": null,
+      "purchasePlatform": null,
+      "note": null,
+      "metadata": null
+    },
+    {
+      "id": "history_1774914761225_4v2klj",
+      "licenseKey": "SURG-RY7T-368W-UCRW-DQ2Y",
+      "action": "revoked",
+      "actor": "admin_console",
+      "summary": "管理员手动禁用邀请码",
+      "createdAt": 1774914761225,
+      "deviceId": null,
+      "user": null,
+      "purchasePlatform": null,
+      "note": null,
+      "metadata": null
+    },
+    {
+      "id": "history_1774914762306_8vavon",
+      "licenseKey": "SURG-RY7T-368W-UCRW-DQ2Y",
+      "action": "revoked",
+      "actor": "admin_console",
+      "summary": "管理员手动禁用邀请码",
+      "createdAt": 1774914762306,
+      "deviceId": null,
+      "user": null,
+      "purchasePlatform": null,
+      "note": null,
+      "metadata": null
     }
   ],
-  "lastUpdated": "2026-03-30T16:11:12.717Z"
+  "lastUpdated": "2026-03-30T23:52:42.307Z"
 }
