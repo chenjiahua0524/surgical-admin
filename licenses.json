@@ -11,7 +11,8 @@
       "used": false,
       "usedAt": null,
       "deviceId": null,
-      "revoked": false
+      "revoked": true,
+      "revokedAt": 1774866427127
     },
     {
       "key": "SURG-PPJG-LYRR-BRAE-GGNK",
@@ -24,8 +25,78 @@
       "used": false,
       "usedAt": null,
       "deviceId": null,
+      "revoked": true,
+      "revokedAt": 1774866426563
+    },
+    {
+      "key": "SURG-RTPG-3MKJ-JTK5-TYNF",
+      "edition": "trial",
+      "duration": "trial30",
+      "createdAt": 1774865934712,
+      "expiresAt": 1777457934712,
+      "user": "uat",
+      "note": "console-test",
+      "used": false,
+      "usedAt": null,
+      "deviceId": null,
+      "revoked": true,
+      "revokedAt": 1774866425552
+    },
+    {
+      "key": "SURG-RA85-3QDU-A3XX-HFM8",
+      "edition": "trial",
+      "duration": "trial30",
+      "createdAt": 1774866270489,
+      "expiresAt": 1777458270489,
+      "user": "verify",
+      "note": "verify3457",
+      "used": false,
+      "usedAt": null,
+      "deviceId": null,
+      "revoked": true,
+      "revokedAt": 1774866425026
+    },
+    {
+      "key": "SURG-RV5J-32CY-PPM9-FN31",
+      "edition": "trial",
+      "duration": "trial30",
+      "createdAt": 1774866341344,
+      "expiresAt": 1777458341344,
+      "user": "fixcheck",
+      "note": "fixcheck",
+      "used": false,
+      "usedAt": null,
+      "deviceId": null,
+      "revoked": true,
+      "revokedAt": 1774866423926
+    },
+    {
+      "key": "SURG-REGN-3U53-YKAQ-9858",
+      "edition": "trial",
+      "duration": "trial30",
+      "createdAt": 1774866356003,
+      "expiresAt": 1777458356003,
+      "user": "fixcheck",
+      "note": "fixcheck",
+      "used": false,
+      "usedAt": null,
+      "deviceId": null,
+      "revoked": true,
+      "revokedAt": 1774866422852
+    },
+    {
+      "key": "SURG-RY7T-368W-UCRW-DQ2Y",
+      "edition": "trial",
+      "duration": "trial30",
+      "createdAt": 1774866471230,
+      "expiresAt": 1777458471230,
+      "user": null,
+      "note": null,
+      "used": false,
+      "usedAt": null,
+      "deviceId": null,
       "revoked": false
     }
   ],
-  "lastUpdated": "2026-03-28T05:12:59.995Z"
+  "lastUpdated": "2026-03-30T10:27:51.230Z"
 }
