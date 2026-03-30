@@ -12,7 +12,9 @@
       "usedAt": null,
       "deviceId": null,
       "revoked": true,
-      "revokedAt": 1774866427127
+      "revokedAt": 1774866427127,
+      "purchasePlatform": null,
+      "revokedReason": null
     },
     {
       "key": "SURG-PPJG-LYRR-BRAE-GGNK",
@@ -26,7 +28,9 @@
       "usedAt": null,
       "deviceId": null,
       "revoked": true,
-      "revokedAt": 1774866426563
+      "revokedAt": 1774866426563,
+      "purchasePlatform": null,
+      "revokedReason": null
     },
     {
       "key": "SURG-RTPG-3MKJ-JTK5-TYNF",
@@ -40,7 +44,9 @@
       "usedAt": null,
       "deviceId": null,
       "revoked": true,
-      "revokedAt": 1774866425552
+      "revokedAt": 1774866425552,
+      "purchasePlatform": null,
+      "revokedReason": null
     },
     {
       "key": "SURG-RA85-3QDU-A3XX-HFM8",
@@ -54,7 +60,9 @@
       "usedAt": null,
       "deviceId": null,
       "revoked": true,
-      "revokedAt": 1774866425026
+      "revokedAt": 1774866425026,
+      "purchasePlatform": null,
+      "revokedReason": null
     },
     {
       "key": "SURG-RV5J-32CY-PPM9-FN31",
@@ -68,7 +76,9 @@
       "usedAt": null,
       "deviceId": null,
       "revoked": true,
-      "revokedAt": 1774866423926
+      "revokedAt": 1774866423926,
+      "purchasePlatform": null,
+      "revokedReason": null
     },
     {
       "key": "SURG-REGN-3U53-YKAQ-9858",
@@ -82,7 +92,9 @@
       "usedAt": null,
       "deviceId": null,
       "revoked": true,
-      "revokedAt": 1774866422852
+      "revokedAt": 1774866422852,
+      "purchasePlatform": null,
+      "revokedReason": null
     },
     {
       "key": "SURG-RY7T-368W-UCRW-DQ2Y",
@@ -95,8 +107,10 @@
       "used": false,
       "usedAt": null,
       "deviceId": null,
-      "revoked": false
+      "revoked": false,
+      "purchasePlatform": null,
+      "revokedReason": null
     }
   ],
-  "lastUpdated": "2026-03-30T10:27:51.230Z"
+  "lastUpdated": "2026-03-30T16:11:12.709Z"
 }
