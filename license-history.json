@@ -260,7 +260,23 @@
         "edition": "trial",
         "duration": "trial30"
       }
+    },
+    {
+      "id": "history_1774915039134_rpb9ab",
+      "licenseKey": "SURG-R3C2-34AH-CAWG-K3MB",
+      "action": "generated",
+      "actor": "admin_console",
+      "summary": "管理员控制台生成邀请码",
+      "createdAt": 1774915039134,
+      "deviceId": null,
+      "user": null,
+      "purchasePlatform": null,
+      "note": null,
+      "metadata": {
+        "edition": "trial",
+        "duration": "trial30"
+      }
     }
   ],
-  "lastUpdated": "2026-03-30T23:56:54.535Z"
+  "lastUpdated": "2026-03-30T23:57:19.136Z"
 }
