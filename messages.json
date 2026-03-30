@@ -1,6 +1,24 @@
 {
   "messages": [
     {
+      "id": "msg-mn9vrt5a-0efd93",
+      "type": "announcement",
+      "title": "欢迎使用",
+      "content": "感谢购买 Surgical，如有问题请联系客服",
+      "actionUrl": null,
+      "actionText": null,
+      "createdAt": 1774675165006,
+      "expiresAt": null,
+      "targetEditions": [
+        "free",
+        "pro",
+        "team",
+        "enterprise"
+      ],
+      "priority": "normal",
+      "dismissed": false
+    },
+    {
       "id": "welcome-001",
       "type": "announcement",
       "title": "欢迎使用 Surgical",
@@ -9,10 +27,15 @@
       "actionText": null,
       "createdAt": 1711612800000,
       "expiresAt": null,
-      "targetEditions": ["free", "pro", "team", "enterprise"],
+      "targetEditions": [
+        "free",
+        "pro",
+        "team",
+        "enterprise"
+      ],
       "priority": "normal",
       "dismissed": false
     }
   ],
-  "lastUpdated": "2026-03-28T00:00:00.000Z"
+  "lastUpdated": "2026-03-28T05:19:25.007Z"
 }
