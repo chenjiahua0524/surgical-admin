@@ -124,8 +124,9 @@
       "used": false,
       "usedAt": null,
       "deviceId": null,
-      "revoked": false,
-      "revokedReason": null
+      "revoked": true,
+      "revokedReason": "manual_revoke",
+      "revokedAt": 1774915053818
     },
     {
       "key": "SURG-RKAF-37HS-VJD6-T4ZH",
@@ -159,5 +160,5 @@
       "revokedReason": null
     }
   ],
-  "lastUpdated": "2026-03-30T23:57:24.921Z"
+  "lastUpdated": "2026-03-30T23:57:33.818Z"
 }
