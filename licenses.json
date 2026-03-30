@@ -126,7 +126,22 @@
       "deviceId": null,
       "revoked": false,
       "revokedReason": null
+    },
+    {
+      "key": "SURG-RKAF-37HS-VJD6-T4ZH",
+      "edition": "trial",
+      "duration": "trial30",
+      "createdAt": 1774915014534,
+      "expiresAt": 1777651199999,
+      "user": null,
+      "purchasePlatform": "咸鱼",
+      "note": null,
+      "used": false,
+      "usedAt": null,
+      "deviceId": null,
+      "revoked": false,
+      "revokedReason": null
     }
   ],
-  "lastUpdated": "2026-03-30T23:56:47.927Z"
+  "lastUpdated": "2026-03-30T23:56:54.534Z"
 }
