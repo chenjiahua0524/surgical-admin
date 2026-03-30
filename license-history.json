@@ -244,7 +244,23 @@
         "edition": "trial",
         "duration": "trial30"
       }
+    },
+    {
+      "id": "history_1774915014534_gtbr0y",
+      "licenseKey": "SURG-RKAF-37HS-VJD6-T4ZH",
+      "action": "generated",
+      "actor": "admin_console",
+      "summary": "管理员控制台生成邀请码",
+      "createdAt": 1774915014534,
+      "deviceId": null,
+      "user": null,
+      "purchasePlatform": "咸鱼",
+      "note": null,
+      "metadata": {
+        "edition": "trial",
+        "duration": "trial30"
+      }
     }
   ],
-  "lastUpdated": "2026-03-30T23:56:47.929Z"
+  "lastUpdated": "2026-03-30T23:56:54.535Z"
 }
