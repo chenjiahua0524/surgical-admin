@@ -111,7 +111,22 @@
       "purchasePlatform": null,
       "revokedReason": "manual_revoke",
       "revokedAt": 1774914762306
+    },
+    {
+      "key": "SURG-R4QF-3KBG-2JMD-53KO",
+      "edition": "trial",
+      "duration": "trial30",
+      "createdAt": 1774915007926,
+      "expiresAt": 1777651199999,
+      "user": null,
+      "purchasePlatform": "咸鱼",
+      "note": null,
+      "used": false,
+      "usedAt": null,
+      "deviceId": null,
+      "revoked": false,
+      "revokedReason": null
     }
   ],
-  "lastUpdated": "2026-03-30T23:52:42.306Z"
+  "lastUpdated": "2026-03-30T23:56:47.927Z"
 }
