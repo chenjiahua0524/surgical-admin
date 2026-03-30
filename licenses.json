@@ -141,7 +141,22 @@
       "deviceId": null,
       "revoked": false,
       "revokedReason": null
+    },
+    {
+      "key": "SURG-R3C2-34AH-CAWG-K3MB",
+      "edition": "trial",
+      "duration": "trial30",
+      "createdAt": 1774915039134,
+      "expiresAt": 1777651199999,
+      "user": null,
+      "purchasePlatform": null,
+      "note": null,
+      "used": false,
+      "usedAt": null,
+      "deviceId": null,
+      "revoked": false,
+      "revokedReason": null
     }
   ],
-  "lastUpdated": "2026-03-30T23:56:54.534Z"
+  "lastUpdated": "2026-03-30T23:57:19.134Z"
 }
