@@ -405,7 +405,20 @@
         "edition": "trial",
         "duration": "trial30"
       }
+    },
+    {
+      "id": "history_1774917322806_hn6arq",
+      "licenseKey": "SURG-RE9Q-3763-9ZK4-GCZU",
+      "action": "revoked",
+      "actor": "admin_console",
+      "summary": "管理员手动禁用邀请码",
+      "createdAt": 1774917322806,
+      "deviceId": null,
+      "user": "sync-retry-test",
+      "purchasePlatform": null,
+      "note": "sync-retry-test",
+      "metadata": null
     }
   ],
-  "lastUpdated": "2026-03-31T00:35:15.564Z"
+  "lastUpdated": "2026-03-31T00:35:22.807Z"
 }
