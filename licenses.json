@@ -159,7 +159,22 @@
       "revoked": true,
       "revokedReason": "manual_revoke",
       "revokedAt": 1774916095824
+    },
+    {
+      "key": "SURG-R3ZP-32NJ-UPXG-DQ74",
+      "edition": "trial",
+      "duration": "trial30",
+      "createdAt": 1774916105334,
+      "expiresAt": 1777651199999,
+      "user": null,
+      "purchasePlatform": null,
+      "note": null,
+      "used": false,
+      "usedAt": null,
+      "deviceId": null,
+      "revoked": false,
+      "revokedReason": null
     }
   ],
-  "lastUpdated": "2026-03-31T00:14:55.824Z"
+  "lastUpdated": "2026-03-31T00:15:05.334Z"
 }
