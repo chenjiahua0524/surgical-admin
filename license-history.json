@@ -360,7 +360,36 @@
         "edition": "trial",
         "duration": "trial30"
       }
+    },
+    {
+      "id": "history_1774916967852_du1bln",
+      "licenseKey": "SURG-RBJP-39ZE-7839-KHL3",
+      "action": "revoked",
+      "actor": "admin_console",
+      "summary": "管理员手动禁用邀请码",
+      "createdAt": 1774916967852,
+      "deviceId": null,
+      "user": "smoke-test",
+      "purchasePlatform": null,
+      "note": "ui-delete-test",
+      "metadata": null
+    },
+    {
+      "id": "history_1774916969561_iudp2n",
+      "licenseKey": "SURG-RBJP-39ZE-7839-KHL3",
+      "action": "deleted",
+      "actor": "admin_console",
+      "summary": "管理员删除无效邀请码",
+      "createdAt": 1774916969561,
+      "deviceId": null,
+      "user": "smoke-test",
+      "purchasePlatform": null,
+      "note": "ui-delete-test",
+      "metadata": {
+        "revoked": true,
+        "revokedReason": "manual_revoke"
+      }
     }
   ],
-  "lastUpdated": "2026-03-31T00:28:25.360Z"
+  "lastUpdated": "2026-03-31T00:29:29.562Z"
 }
