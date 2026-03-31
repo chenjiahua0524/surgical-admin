@@ -389,7 +389,23 @@
         "revoked": true,
         "revokedReason": "manual_revoke"
       }
+    },
+    {
+      "id": "history_1774917315562_b9n0pa",
+      "licenseKey": "SURG-RE9Q-3763-9ZK4-GCZU",
+      "action": "generated",
+      "actor": "admin_console",
+      "summary": "管理员控制台生成邀请码",
+      "createdAt": 1774917315562,
+      "deviceId": null,
+      "user": "sync-retry-test",
+      "purchasePlatform": null,
+      "note": "sync-retry-test",
+      "metadata": {
+        "edition": "trial",
+        "duration": "trial30"
+      }
     }
   ],
-  "lastUpdated": "2026-03-31T00:29:29.562Z"
+  "lastUpdated": "2026-03-31T00:35:15.564Z"
 }
