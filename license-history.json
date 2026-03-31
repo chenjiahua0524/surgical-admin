@@ -315,7 +315,20 @@
       "purchasePlatform": null,
       "note": null,
       "metadata": null
+    },
+    {
+      "id": "history_1774916095824_oqonh9",
+      "licenseKey": "SURG-R3C2-34AH-CAWG-K3MB",
+      "action": "revoked",
+      "actor": "admin_console",
+      "summary": "管理员手动禁用邀请码",
+      "createdAt": 1774916095824,
+      "deviceId": null,
+      "user": null,
+      "purchasePlatform": null,
+      "note": null,
+      "metadata": null
     }
   ],
-  "lastUpdated": "2026-03-31T00:14:47.904Z"
+  "lastUpdated": "2026-03-31T00:14:55.825Z"
 }
