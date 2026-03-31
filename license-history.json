@@ -328,7 +328,23 @@
       "purchasePlatform": null,
       "note": null,
       "metadata": null
+    },
+    {
+      "id": "history_1774916105334_3bhclu",
+      "licenseKey": "SURG-R3ZP-32NJ-UPXG-DQ74",
+      "action": "generated",
+      "actor": "admin_console",
+      "summary": "管理员控制台生成邀请码",
+      "createdAt": 1774916105334,
+      "deviceId": null,
+      "user": null,
+      "purchasePlatform": null,
+      "note": null,
+      "metadata": {
+        "edition": "trial",
+        "duration": "trial30"
+      }
     }
   ],
-  "lastUpdated": "2026-03-31T00:14:55.825Z"
+  "lastUpdated": "2026-03-31T00:15:05.335Z"
 }
