@@ -174,7 +174,22 @@
       "deviceId": null,
       "revoked": false,
       "revokedReason": null
+    },
+    {
+      "key": "SURG-RBJP-39ZE-7839-KHL3",
+      "edition": "trial",
+      "duration": "trial30",
+      "createdAt": 1774916905358,
+      "expiresAt": 1777651199999,
+      "user": "smoke-test",
+      "purchasePlatform": null,
+      "note": "ui-delete-test",
+      "used": false,
+      "usedAt": null,
+      "deviceId": null,
+      "revoked": false,
+      "revokedReason": null
     }
   ],
-  "lastUpdated": "2026-03-31T00:15:05.334Z"
+  "lastUpdated": "2026-03-31T00:28:25.359Z"
 }
