@@ -169,12 +169,12 @@
       "user": null,
       "purchasePlatform": null,
       "note": null,
-      "used": false,
-      "usedAt": null,
-      "deviceId": null,
+      "used": true,
+      "usedAt": 1774922559095,
+      "deviceId": "cascade-verification-device",
       "revoked": false,
       "revokedReason": null
     }
   ],
-  "lastUpdated": "2026-03-31T00:35:29.445Z"
+  "lastUpdated": "2026-03-31T02:02:39.096Z"
 }
