@@ -187,9 +187,10 @@
       "used": false,
       "usedAt": null,
       "deviceId": null,
-      "revoked": false,
-      "revokedReason": null
+      "revoked": true,
+      "revokedReason": "manual_revoke",
+      "revokedAt": 1774917322806
     }
   ],
-  "lastUpdated": "2026-03-31T00:35:15.562Z"
+  "lastUpdated": "2026-03-31T00:35:22.806Z"
 }
