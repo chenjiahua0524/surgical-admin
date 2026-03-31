@@ -434,7 +434,20 @@
         "revoked": true,
         "revokedReason": "manual_revoke"
       }
+    },
+    {
+      "id": "history_1774922559096_n5geje",
+      "licenseKey": "SURG-R3ZP-32NJ-UPXG-DQ74",
+      "action": "activated",
+      "actor": "product_client",
+      "summary": "产品端完成邀请码激活",
+      "createdAt": 1774922559096,
+      "deviceId": "cascade-verification-device",
+      "user": null,
+      "purchasePlatform": null,
+      "note": null,
+      "metadata": null
     }
   ],
-  "lastUpdated": "2026-03-31T00:35:29.446Z"
+  "lastUpdated": "2026-03-31T02:02:39.098Z"
 }
