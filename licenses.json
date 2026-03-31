@@ -174,23 +174,7 @@
       "deviceId": null,
       "revoked": false,
       "revokedReason": null
-    },
-    {
-      "key": "SURG-RE9Q-3763-9ZK4-GCZU",
-      "edition": "trial",
-      "duration": "trial30",
-      "createdAt": 1774917315561,
-      "expiresAt": 1777651199999,
-      "user": "sync-retry-test",
-      "purchasePlatform": null,
-      "note": "sync-retry-test",
-      "used": false,
-      "usedAt": null,
-      "deviceId": null,
-      "revoked": true,
-      "revokedReason": "manual_revoke",
-      "revokedAt": 1774917322806
     }
   ],
-  "lastUpdated": "2026-03-31T00:35:22.806Z"
+  "lastUpdated": "2026-03-31T00:35:29.445Z"
 }
