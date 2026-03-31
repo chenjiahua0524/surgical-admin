@@ -344,7 +344,23 @@
         "edition": "trial",
         "duration": "trial30"
       }
+    },
+    {
+      "id": "history_1774916905359_ptsv1t",
+      "licenseKey": "SURG-RBJP-39ZE-7839-KHL3",
+      "action": "generated",
+      "actor": "admin_console",
+      "summary": "管理员控制台生成邀请码",
+      "createdAt": 1774916905359,
+      "deviceId": null,
+      "user": "smoke-test",
+      "purchasePlatform": null,
+      "note": "ui-delete-test",
+      "metadata": {
+        "edition": "trial",
+        "duration": "trial30"
+      }
     }
   ],
-  "lastUpdated": "2026-03-31T00:15:05.335Z"
+  "lastUpdated": "2026-03-31T00:28:25.360Z"
 }
