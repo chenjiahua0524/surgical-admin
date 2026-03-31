@@ -418,7 +418,23 @@
       "purchasePlatform": null,
       "note": "sync-retry-test",
       "metadata": null
+    },
+    {
+      "id": "history_1774917329445_m9eg65",
+      "licenseKey": "SURG-RE9Q-3763-9ZK4-GCZU",
+      "action": "deleted",
+      "actor": "admin_console",
+      "summary": "管理员删除无效邀请码",
+      "createdAt": 1774917329445,
+      "deviceId": null,
+      "user": "sync-retry-test",
+      "purchasePlatform": null,
+      "note": "sync-retry-test",
+      "metadata": {
+        "revoked": true,
+        "revokedReason": "manual_revoke"
+      }
     }
   ],
-  "lastUpdated": "2026-03-31T00:35:22.807Z"
+  "lastUpdated": "2026-03-31T00:35:29.446Z"
 }
